@@ -5,13 +5,15 @@
 
 <b> Functionality & Concepts used : </b>
 
--I have intregrated Google's Firebase for authentication of users on server side 🤓.
+- I have intregrated Google's Firebase for authentication of users on server side.
 
--Users can sign-in in app using their phone number, this app automatically detect user's country code 🤓.
+- Users can sign-in in app using their phone number, this app automatically detect user's country code.
 
--After entering phone number, users get one-time-password on their phone number 🤓.
+- After entering phone number, users get one-time-password on their phone number.
 
--This app automatically detect otp sent to user, no need to type manually 🤓🤓.
+- This app automatically detect otp sent to user, no need to type manually 🤓🤓.
+
+- VOILA! 🥳
 
 
 <img width="200" alt="sampleimages" src="https://raw.githubusercontent.com/ambasta-shalu/phone-num-login/master/App-Snapshot/snapshot1.jpeg"> <img width="200" 
